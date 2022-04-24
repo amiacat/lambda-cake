@@ -1,11 +1,11 @@
 # lambda-cake
-A repository to trying to do Haskell programming
+A repository to trying to do purely programming
 
 ![lambda](https://c.tenor.com/gnR7shBKv1sAAAAM/lambda-fripouz.gif)
 
 ## Haskell
 
-![haskell](https://cdn.freelogovectors.net/wp-content/uploads/2021/01/haskell-logo-freelogovectors.net_.png)
+![haskell](https://www.haskell.org/img/haskell-logo.svg)
 
 The most famous one, I will try to focus more in this one
 
