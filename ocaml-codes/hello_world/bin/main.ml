@@ -1,1 +1,3 @@
-let () = print_endline "Hello, World!"
+let x = 50;;
+
+let () = print_endline x;;
