@@ -1,0 +1,4 @@
+# dune init proj hello_world
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /workspace/lambda-cake/ocaml-codes
